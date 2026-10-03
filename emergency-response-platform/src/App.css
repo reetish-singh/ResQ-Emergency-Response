@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f4f7fb;
+}
+
+.app {
+  min-height: 100vh;
+}
+
+.container {
+  max-width: 1200px;
+  margin: auto;
+  padding: 40px;
+}
+
+.header {
+  background: #111827;
+  color: white;
+  padding: 25px;
+  border-radius: 12px;
+}
+
+.header h1 {
+  margin: 0;
+  font-size: 30px;
+}
+
+.header p {
+  color: #9ca3af;
+}
+
+.button {
+  background: #dc2626;
+  color: white;
+  border: none;
+  padding: 12px 20px;
+  border-radius: 7px;
+  cursor: pointer;
+  font-size: 15px;
+}
+
+.button:hover {
+  background: #b91c1c;
+}
